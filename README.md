@@ -1,5 +1,5 @@
-# CZ2006_History-Buddy
-CZ2006 Software Engineering Project by "APIHunter"
+# History-Buddy
+Software Engineering Project using Flutter and Firebase Backend
 
 
 ## Demo Video
