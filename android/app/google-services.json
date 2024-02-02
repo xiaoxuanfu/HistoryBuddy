@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882684262432",
+    "project_id": "cz2006-history-buddy",
+    "storage_bucket": "cz2006-history-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882684262432:android:f10b50a65198f38d366445",
+        "android_client_info": {
+          "package_name": "APIHunter.cz2006_history_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882684262432-vj39vfb3tvs9ujcrooplvho5ptmhtkcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUQjp9dKsLRypk3Fi9JQcxSo8t9yZNjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882684262432-vj39vfb3tvs9ujcrooplvho5ptmhtkcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
